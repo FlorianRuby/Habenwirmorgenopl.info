@@ -7,5 +7,5 @@ Never stress at 1 AM again! This simple planner helps you keep track of upcoming
 * Notes: If we have an exam or assignment due that session you'll see it here.
 
 ## Usage
-1. [Visit the website here!](https://florianruby.github.io/I23d-BBB-Unterrichts-Planner/).
+1. [Visit the website here!](https://florianruby.github.io/I23d-BBB-Unterrichts-Planner/)
 2. View the next session and the timetable of upcoming sessions.
